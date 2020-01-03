@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+SanjViewTool::Renderer.copyright 'L Sanjaya Ranaweera', 'All Rights Reserved'
+```
 
 ## Development
 
